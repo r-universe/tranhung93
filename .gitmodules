@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ipw"]
 	path = ipw
-	url = https://github.com/cran/ipw
+	url = https://github.com/tranhung93/ipw
